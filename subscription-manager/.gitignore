@@ -1,0 +1,9 @@
+contract-opt.wasm
+Dockerfile
+
+permit.json
+signed_permit.json
+claive_subscription_manager.wasm
+permit_to_sign.json
+query_subscriber_permit.json
+api_keys_permit.json
